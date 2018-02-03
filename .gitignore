@@ -1,0 +1,4 @@
+# .gitignore file for swinv app
+
+# Ignore config file with DB connect info
+conf.pm
